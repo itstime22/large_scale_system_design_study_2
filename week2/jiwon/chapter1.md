@@ -1,3 +1,5 @@
+노션 정리 링크 : https://www.notion.so/2a7a3c4c42a48033970ac494bd812e68?source=copy_link
+
 # 1장
 
 1. 단일서버
